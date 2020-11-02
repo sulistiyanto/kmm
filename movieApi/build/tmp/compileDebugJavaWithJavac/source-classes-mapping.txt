@@ -1,0 +1,2 @@
+com/example/movieapp/android/BuildConfig.java
+ com.example.movieapp.android.BuildConfig
