@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/mamikos/AndroidStudioProjects/MovieApp/androidApp/build/intermediates/res/merged/debug/drawable_ic_cloud_download.xml.flat",
+        "source": "/Users/mamikos/AndroidStudioProjects/MovieApp/androidApp/src/main/res/drawable/ic_cloud_download.xml"
+    },
+    {
+        "merged": "/Users/mamikos/AndroidStudioProjects/MovieApp/androidApp/build/intermediates/res/merged/debug/layout_activity_main.xml.flat",
+        "source": "/Users/mamikos/AndroidStudioProjects/MovieApp/androidApp/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/mamikos/AndroidStudioProjects/MovieApp/androidApp/build/intermediates/res/merged/debug/layout_item_movie.xml.flat",
+        "source": "/Users/mamikos/AndroidStudioProjects/MovieApp/androidApp/src/main/res/layout/item_movie.xml"
+    }
+]

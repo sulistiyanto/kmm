@@ -1,0 +1,14 @@
+com/example/movieapp/androidApp/BuildConfig.java
+ com.example.movieapp.androidApp.BuildConfig
+com/example/movieapp/androidApp/base/util/GlideRequests.java
+ com.example.movieapp.androidApp.base.util.GlideRequests
+com/bumptech/glide/GeneratedRequestManagerFactory.java
+ com.bumptech.glide.GeneratedRequestManagerFactory
+com/bumptech/glide/GeneratedAppGlideModuleImpl.java
+ com.bumptech.glide.GeneratedAppGlideModuleImpl
+com/example/movieapp/androidApp/base/util/GlideRequest.java
+ com.example.movieapp.androidApp.base.util.GlideRequest
+com/example/movieapp/androidApp/base/util/GlideOptions.java
+ com.example.movieapp.androidApp.base.util.GlideOptions
+com/example/movieapp/androidApp/base/util/GlideApp.java
+ com.example.movieapp.androidApp.base.util.GlideApp

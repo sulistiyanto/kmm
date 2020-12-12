@@ -1,0 +1,200 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/mamikos/AndroidStudioProjects/MovieApp/androidApp/src/main/AndroidManifest.xml:2:1-19:12
+INJECTED from /Users/mamikos/AndroidStudioProjects/MovieApp/androidApp/src/main/AndroidManifest.xml:2:1-19:12
+INJECTED from /Users/mamikos/AndroidStudioProjects/MovieApp/androidApp/src/main/AndroidManifest.xml:2:1-19:12
+INJECTED from /Users/mamikos/AndroidStudioProjects/MovieApp/androidApp/src/main/AndroidManifest.xml:2:1-19:12
+MERGED from [:movieApi] /Users/mamikos/AndroidStudioProjects/MovieApp/movieApi/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [org.kodein.di:kodein-di-framework-android-x:7.1.0] /Users/mamikos/.gradle/caches/transforms-2/files-2.1/ad814ed4eab5a0bc3127b9a20030a9c1/kodein-di-framework-android-x-7.1.0/AndroidManifest.xml:2:1-7:12
+MERGED from [org.kodein.di:kodein-di-framework-android-core:7.1.0] /Users/mamikos/.gradle/caches/transforms-2/files-2.1/f868b4bdb49a8ecf0bad359c275a955d/kodein-di-framework-android-core-7.1.0/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.material:material:1.2.1] /Users/mamikos/.gradle/caches/transforms-2/files-2.1/b40e77a2c56cdbc6315d2da1dbeaab41/material-1.2.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] /Users/mamikos/.gradle/caches/transforms-2/files-2.1/f83ad4717188c0fcb934fac80be6cbea/constraintlayout-2.0.4/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.2.0] /Users/mamikos/.gradle/caches/transforms-2/files-2.1/0c67b087dcc6dc0188838e015b6284aa/appcompat-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.1.0] /Users/mamikos/.gradle/caches/transforms-2/files-2.1/6047e54d0de1d64b9b2386e916594f25/swiperefreshlayout-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core-ktx:1.3.2] /Users/mamikos/.gradle/caches/transforms-2/files-2.1/997a2eb997eaa1b8745c7b52c0af13f5/core-ktx-1.3.2/AndroidManifest.xml:2:1-9:12
+MERGED from [com.android.support:multidex:1.0.3] /Users/mamikos/.gradle/caches/transforms-2/files-2.1/77a62861fd19bb65e6a0ec3071192ba2/multidex-1.0.3/AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.bumptech.glide:glide:4.11.0] /Users/mamikos/.gradle/caches/transforms-2/files-2.1/645e7d668d8166915621b394270fb75b/glide-4.11.0/AndroidManifest.xml:2:1-12:12
+MERGED from [com.badoo.reaktive:coroutines-interop-android-debug:1.1.18] /Users/mamikos/.gradle/caches/transforms-2/files-2.1/3950d6559d835888312c0ff808415a51/coroutines-interop-debug/AndroidManifest.xml:2:1-9:12
+MERGED from [com.badoo.reaktive:reaktive-android-debug:1.1.18] /Users/mamikos/.gradle/caches/transforms-2/files-2.1/1d937acd18636dba58bac4a5fd7fb36b/reaktive-debug/AndroidManifest.xml:2:1-9:12
+MERGED from [com.badoo.reaktive:utils-android-debug:1.1.18] /Users/mamikos/.gradle/caches/transforms-2/files-2.1/b861ffe594d932ac90aabba4d396c51f/utils-debug/AndroidManifest.xml:2:1-9:12
+MERGED from [com.badoo.reaktive:reaktive-annotations-android-debug:1.1.18] /Users/mamikos/.gradle/caches/transforms-2/files-2.1/9047b0fa83275900f207d74e54d3dd88/reaktive-annotations-debug/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/mamikos/.gradle/caches/transforms-2/files-2.1/4c24c4614514358af694653c89bbd319/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/mamikos/.gradle/caches/transforms-2/files-2.1/55af95be915feb00e7a5eac001b31612/coordinatorlayout-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.2.0] /Users/mamikos/.gradle/caches/transforms-2/files-2.1/f20831c66802c8bd056672a2ee233319/transition-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] /Users/mamikos/.gradle/caches/transforms-2/files-2.1/78bb137af7a46609b0f4ca5e4be7a0ec/appcompat-resources-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/mamikos/.gradle/caches/transforms-2/files-2.1/a3869b56f0580b3e750fdf0d5d198ec7/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/mamikos/.gradle/caches/transforms-2/files-2.1/f5ccfad61c4edfa197b80c46b5702847/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/mamikos/.gradle/caches/transforms-2/files-2.1/779ad06f3ee359a8ce28942094ea97ec/viewpager2-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/mamikos/.gradle/caches/transforms-2/files-2.1/2ca61cb6ea867d25195947de6c47c3cc/fragment-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/mamikos/.gradle/caches/transforms-2/files-2.1/bfc8406e619de3a9f3132b1f7af5c813/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/mamikos/.gradle/caches/transforms-2/files-2.1/07db4cf18b0892f99a128ac093b51051/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/mamikos/.gradle/caches/transforms-2/files-2.1/a87ecf40b127df431bbdcd12b61e1915/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/mamikos/.gradle/caches/transforms-2/files-2.1/b9f84ed0043a5c224319990d20dd3f05/recyclerview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/mamikos/.gradle/caches/transforms-2/files-2.1/346054693ceac9dfe19c8b64f9b695b2/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/mamikos/.gradle/caches/transforms-2/files-2.1/3103f3b0b42f1f458b01c07582b141d1/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/mamikos/.gradle/caches/transforms-2/files-2.1/96ac81ae479cdb1725dff811c91563ce/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] /Users/mamikos/.gradle/caches/transforms-2/files-2.1/d4c77ef658b3c604bdfadc9d98278794/activity-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.3.2] /Users/mamikos/.gradle/caches/transforms-2/files-2.1/192b94170d2572ba0927d8cca337f24b/core-1.3.2/AndroidManifest.xml:17:1-26:12
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] /Users/mamikos/.gradle/caches/transforms-2/files-2.1/54cb0b4f74105ed4e0d5e8dab3f93733/gifdecoder-4.11.0/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] /Users/mamikos/.gradle/caches/transforms-2/files-2.1/c13515dde7fc598a2c5c41dfcc16c468/exifinterface-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/mamikos/.gradle/caches/transforms-2/files-2.1/a2fc553e95ece8d7a88cb4cd05832de8/versionedparcelable-1.1.0/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /Users/mamikos/.gradle/caches/transforms-2/files-2.1/c50c022c09e3ea3f3e5d3749525ddf02/lifecycle-runtime-2.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/mamikos/.gradle/caches/transforms-2/files-2.1/8390506868fd36f8ebd871cb584d0a2f/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/mamikos/.gradle/caches/transforms-2/files-2.1/385d296b47df1bb648dccdaa854620f4/savedstate-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/mamikos/.gradle/caches/transforms-2/files-2.1/8d5fa96f5035bb1dcc4f9c85dfc65a32/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/mamikos/.gradle/caches/transforms-2/files-2.1/da99c4e221d10a99aa533375ed6afbca/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/mamikos/.gradle/caches/transforms-2/files-2.1/eb7a18d13249c2f9bcd66a310cfeeddc/core-runtime-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] /Users/mamikos/.gradle/caches/transforms-2/files-2.1/e9489b867a161b2440e53480c4a95d83/annotation-experimental-1.0.0/AndroidManifest.xml:17:1-24:12
+INJECTED from /Users/mamikos/AndroidStudioProjects/MovieApp/androidApp/src/main/AndroidManifest.xml:2:1-19:12
+INJECTED from /Users/mamikos/AndroidStudioProjects/MovieApp/androidApp/src/main/AndroidManifest.xml:2:1-19:12
+INJECTED from /Users/mamikos/AndroidStudioProjects/MovieApp/androidApp/src/main/AndroidManifest.xml:2:1-19:12
+	package
+		ADDED from /Users/mamikos/AndroidStudioProjects/MovieApp/androidApp/src/main/AndroidManifest.xml:2:70-111
+		INJECTED from /Users/mamikos/AndroidStudioProjects/MovieApp/androidApp/src/main/AndroidManifest.xml
+		INJECTED from /Users/mamikos/AndroidStudioProjects/MovieApp/androidApp/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/mamikos/AndroidStudioProjects/MovieApp/androidApp/src/main/AndroidManifest.xml
+		ADDED from /Users/mamikos/AndroidStudioProjects/MovieApp/androidApp/src/main/AndroidManifest.xml:2:1-19:12
+		INJECTED from /Users/mamikos/AndroidStudioProjects/MovieApp/androidApp/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/mamikos/AndroidStudioProjects/MovieApp/androidApp/src/main/AndroidManifest.xml
+		ADDED from /Users/mamikos/AndroidStudioProjects/MovieApp/androidApp/src/main/AndroidManifest.xml:2:1-19:12
+		INJECTED from /Users/mamikos/AndroidStudioProjects/MovieApp/androidApp/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/mamikos/AndroidStudioProjects/MovieApp/androidApp/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/mamikos/AndroidStudioProjects/MovieApp/androidApp/src/main/AndroidManifest.xml:4:5-66
+	android:name
+		ADDED from /Users/mamikos/AndroidStudioProjects/MovieApp/androidApp/src/main/AndroidManifest.xml:4:22-64
+application
+ADDED from /Users/mamikos/AndroidStudioProjects/MovieApp/androidApp/src/main/AndroidManifest.xml:6:5-17:19
+MERGED from [com.google.android.material:material:1.2.1] /Users/mamikos/.gradle/caches/transforms-2/files-2.1/b40e77a2c56cdbc6315d2da1dbeaab41/material-1.2.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.2.1] /Users/mamikos/.gradle/caches/transforms-2/files-2.1/b40e77a2c56cdbc6315d2da1dbeaab41/material-1.2.1/AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] /Users/mamikos/.gradle/caches/transforms-2/files-2.1/f83ad4717188c0fcb934fac80be6cbea/constraintlayout-2.0.4/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] /Users/mamikos/.gradle/caches/transforms-2/files-2.1/f83ad4717188c0fcb934fac80be6cbea/constraintlayout-2.0.4/AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:glide:4.11.0] /Users/mamikos/.gradle/caches/transforms-2/files-2.1/645e7d668d8166915621b394270fb75b/glide-4.11.0/AndroidManifest.xml:10:5-20
+MERGED from [com.github.bumptech.glide:glide:4.11.0] /Users/mamikos/.gradle/caches/transforms-2/files-2.1/645e7d668d8166915621b394270fb75b/glide-4.11.0/AndroidManifest.xml:10:5-20
+MERGED from [androidx.core:core:1.3.2] /Users/mamikos/.gradle/caches/transforms-2/files-2.1/192b94170d2572ba0927d8cca337f24b/core-1.3.2/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.3.2] /Users/mamikos/.gradle/caches/transforms-2/files-2.1/192b94170d2572ba0927d8cca337f24b/core-1.3.2/AndroidManifest.xml:24:5-89
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] /Users/mamikos/.gradle/caches/transforms-2/files-2.1/54cb0b4f74105ed4e0d5e8dab3f93733/gifdecoder-4.11.0/AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] /Users/mamikos/.gradle/caches/transforms-2/files-2.1/54cb0b4f74105ed4e0d5e8dab3f93733/gifdecoder-4.11.0/AndroidManifest.xml:9:5-20
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/mamikos/.gradle/caches/transforms-2/files-2.1/a2fc553e95ece8d7a88cb4cd05832de8/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/mamikos/.gradle/caches/transforms-2/files-2.1/a2fc553e95ece8d7a88cb4cd05832de8/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.3.2] /Users/mamikos/.gradle/caches/transforms-2/files-2.1/192b94170d2572ba0927d8cca337f24b/core-1.3.2/AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from /Users/mamikos/AndroidStudioProjects/MovieApp/androidApp/src/main/AndroidManifest.xml:8:13-39
+	android:allowBackup
+		ADDED from /Users/mamikos/AndroidStudioProjects/MovieApp/androidApp/src/main/AndroidManifest.xml:7:13-40
+	android:theme
+		ADDED from /Users/mamikos/AndroidStudioProjects/MovieApp/androidApp/src/main/AndroidManifest.xml:9:13-44
+activity#com.example.movieapp.androidApp.ui.MainActivity
+ADDED from /Users/mamikos/AndroidStudioProjects/MovieApp/androidApp/src/main/AndroidManifest.xml:10:9-16:20
+	android:name
+		ADDED from /Users/mamikos/AndroidStudioProjects/MovieApp/androidApp/src/main/AndroidManifest.xml:10:19-50
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/mamikos/AndroidStudioProjects/MovieApp/androidApp/src/main/AndroidManifest.xml:11:13-15:29
+action#android.intent.action.MAIN
+ADDED from /Users/mamikos/AndroidStudioProjects/MovieApp/androidApp/src/main/AndroidManifest.xml:12:17-68
+	android:name
+		ADDED from /Users/mamikos/AndroidStudioProjects/MovieApp/androidApp/src/main/AndroidManifest.xml:12:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/mamikos/AndroidStudioProjects/MovieApp/androidApp/src/main/AndroidManifest.xml:14:17-76
+	android:name
+		ADDED from /Users/mamikos/AndroidStudioProjects/MovieApp/androidApp/src/main/AndroidManifest.xml:14:27-74
+uses-sdk
+INJECTED from /Users/mamikos/AndroidStudioProjects/MovieApp/androidApp/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/mamikos/AndroidStudioProjects/MovieApp/androidApp/src/main/AndroidManifest.xml
+INJECTED from /Users/mamikos/AndroidStudioProjects/MovieApp/androidApp/src/main/AndroidManifest.xml
+MERGED from [:movieApi] /Users/mamikos/AndroidStudioProjects/MovieApp/movieApi/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:movieApi] /Users/mamikos/AndroidStudioProjects/MovieApp/movieApi/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [org.kodein.di:kodein-di-framework-android-x:7.1.0] /Users/mamikos/.gradle/caches/transforms-2/files-2.1/ad814ed4eab5a0bc3127b9a20030a9c1/kodein-di-framework-android-x-7.1.0/AndroidManifest.xml:5:5-44
+MERGED from [org.kodein.di:kodein-di-framework-android-x:7.1.0] /Users/mamikos/.gradle/caches/transforms-2/files-2.1/ad814ed4eab5a0bc3127b9a20030a9c1/kodein-di-framework-android-x-7.1.0/AndroidManifest.xml:5:5-44
+MERGED from [org.kodein.di:kodein-di-framework-android-core:7.1.0] /Users/mamikos/.gradle/caches/transforms-2/files-2.1/f868b4bdb49a8ecf0bad359c275a955d/kodein-di-framework-android-core-7.1.0/AndroidManifest.xml:5:5-44
+MERGED from [org.kodein.di:kodein-di-framework-android-core:7.1.0] /Users/mamikos/.gradle/caches/transforms-2/files-2.1/f868b4bdb49a8ecf0bad359c275a955d/kodein-di-framework-android-core-7.1.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.material:material:1.2.1] /Users/mamikos/.gradle/caches/transforms-2/files-2.1/b40e77a2c56cdbc6315d2da1dbeaab41/material-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.2.1] /Users/mamikos/.gradle/caches/transforms-2/files-2.1/b40e77a2c56cdbc6315d2da1dbeaab41/material-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] /Users/mamikos/.gradle/caches/transforms-2/files-2.1/f83ad4717188c0fcb934fac80be6cbea/constraintlayout-2.0.4/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] /Users/mamikos/.gradle/caches/transforms-2/files-2.1/f83ad4717188c0fcb934fac80be6cbea/constraintlayout-2.0.4/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] /Users/mamikos/.gradle/caches/transforms-2/files-2.1/0c67b087dcc6dc0188838e015b6284aa/appcompat-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] /Users/mamikos/.gradle/caches/transforms-2/files-2.1/0c67b087dcc6dc0188838e015b6284aa/appcompat-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.1.0] /Users/mamikos/.gradle/caches/transforms-2/files-2.1/6047e54d0de1d64b9b2386e916594f25/swiperefreshlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.1.0] /Users/mamikos/.gradle/caches/transforms-2/files-2.1/6047e54d0de1d64b9b2386e916594f25/swiperefreshlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core-ktx:1.3.2] /Users/mamikos/.gradle/caches/transforms-2/files-2.1/997a2eb997eaa1b8745c7b52c0af13f5/core-ktx-1.3.2/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.3.2] /Users/mamikos/.gradle/caches/transforms-2/files-2.1/997a2eb997eaa1b8745c7b52c0af13f5/core-ktx-1.3.2/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:multidex:1.0.3] /Users/mamikos/.gradle/caches/transforms-2/files-2.1/77a62861fd19bb65e6a0ec3071192ba2/multidex-1.0.3/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:multidex:1.0.3] /Users/mamikos/.gradle/caches/transforms-2/files-2.1/77a62861fd19bb65e6a0ec3071192ba2/multidex-1.0.3/AndroidManifest.xml:20:5-43
+MERGED from [com.github.bumptech.glide:glide:4.11.0] /Users/mamikos/.gradle/caches/transforms-2/files-2.1/645e7d668d8166915621b394270fb75b/glide-4.11.0/AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.bumptech.glide:glide:4.11.0] /Users/mamikos/.gradle/caches/transforms-2/files-2.1/645e7d668d8166915621b394270fb75b/glide-4.11.0/AndroidManifest.xml:6:5-8:41
+MERGED from [com.badoo.reaktive:coroutines-interop-android-debug:1.1.18] /Users/mamikos/.gradle/caches/transforms-2/files-2.1/3950d6559d835888312c0ff808415a51/coroutines-interop-debug/AndroidManifest.xml:5:5-7:41
+MERGED from [com.badoo.reaktive:coroutines-interop-android-debug:1.1.18] /Users/mamikos/.gradle/caches/transforms-2/files-2.1/3950d6559d835888312c0ff808415a51/coroutines-interop-debug/AndroidManifest.xml:5:5-7:41
+MERGED from [com.badoo.reaktive:reaktive-android-debug:1.1.18] /Users/mamikos/.gradle/caches/transforms-2/files-2.1/1d937acd18636dba58bac4a5fd7fb36b/reaktive-debug/AndroidManifest.xml:5:5-7:41
+MERGED from [com.badoo.reaktive:reaktive-android-debug:1.1.18] /Users/mamikos/.gradle/caches/transforms-2/files-2.1/1d937acd18636dba58bac4a5fd7fb36b/reaktive-debug/AndroidManifest.xml:5:5-7:41
+MERGED from [com.badoo.reaktive:utils-android-debug:1.1.18] /Users/mamikos/.gradle/caches/transforms-2/files-2.1/b861ffe594d932ac90aabba4d396c51f/utils-debug/AndroidManifest.xml:5:5-7:41
+MERGED from [com.badoo.reaktive:utils-android-debug:1.1.18] /Users/mamikos/.gradle/caches/transforms-2/files-2.1/b861ffe594d932ac90aabba4d396c51f/utils-debug/AndroidManifest.xml:5:5-7:41
+MERGED from [com.badoo.reaktive:reaktive-annotations-android-debug:1.1.18] /Users/mamikos/.gradle/caches/transforms-2/files-2.1/9047b0fa83275900f207d74e54d3dd88/reaktive-annotations-debug/AndroidManifest.xml:5:5-7:41
+MERGED from [com.badoo.reaktive:reaktive-annotations-android-debug:1.1.18] /Users/mamikos/.gradle/caches/transforms-2/files-2.1/9047b0fa83275900f207d74e54d3dd88/reaktive-annotations-debug/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/mamikos/.gradle/caches/transforms-2/files-2.1/4c24c4614514358af694653c89bbd319/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/mamikos/.gradle/caches/transforms-2/files-2.1/4c24c4614514358af694653c89bbd319/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/mamikos/.gradle/caches/transforms-2/files-2.1/55af95be915feb00e7a5eac001b31612/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/mamikos/.gradle/caches/transforms-2/files-2.1/55af95be915feb00e7a5eac001b31612/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] /Users/mamikos/.gradle/caches/transforms-2/files-2.1/f20831c66802c8bd056672a2ee233319/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] /Users/mamikos/.gradle/caches/transforms-2/files-2.1/f20831c66802c8bd056672a2ee233319/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] /Users/mamikos/.gradle/caches/transforms-2/files-2.1/78bb137af7a46609b0f4ca5e4be7a0ec/appcompat-resources-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] /Users/mamikos/.gradle/caches/transforms-2/files-2.1/78bb137af7a46609b0f4ca5e4be7a0ec/appcompat-resources-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/mamikos/.gradle/caches/transforms-2/files-2.1/a3869b56f0580b3e750fdf0d5d198ec7/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/mamikos/.gradle/caches/transforms-2/files-2.1/a3869b56f0580b3e750fdf0d5d198ec7/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/mamikos/.gradle/caches/transforms-2/files-2.1/f5ccfad61c4edfa197b80c46b5702847/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/mamikos/.gradle/caches/transforms-2/files-2.1/f5ccfad61c4edfa197b80c46b5702847/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/mamikos/.gradle/caches/transforms-2/files-2.1/779ad06f3ee359a8ce28942094ea97ec/viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/mamikos/.gradle/caches/transforms-2/files-2.1/779ad06f3ee359a8ce28942094ea97ec/viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/mamikos/.gradle/caches/transforms-2/files-2.1/2ca61cb6ea867d25195947de6c47c3cc/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/mamikos/.gradle/caches/transforms-2/files-2.1/2ca61cb6ea867d25195947de6c47c3cc/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/mamikos/.gradle/caches/transforms-2/files-2.1/bfc8406e619de3a9f3132b1f7af5c813/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/mamikos/.gradle/caches/transforms-2/files-2.1/bfc8406e619de3a9f3132b1f7af5c813/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/mamikos/.gradle/caches/transforms-2/files-2.1/07db4cf18b0892f99a128ac093b51051/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/mamikos/.gradle/caches/transforms-2/files-2.1/07db4cf18b0892f99a128ac093b51051/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/mamikos/.gradle/caches/transforms-2/files-2.1/a87ecf40b127df431bbdcd12b61e1915/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/mamikos/.gradle/caches/transforms-2/files-2.1/a87ecf40b127df431bbdcd12b61e1915/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/mamikos/.gradle/caches/transforms-2/files-2.1/b9f84ed0043a5c224319990d20dd3f05/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/mamikos/.gradle/caches/transforms-2/files-2.1/b9f84ed0043a5c224319990d20dd3f05/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/mamikos/.gradle/caches/transforms-2/files-2.1/346054693ceac9dfe19c8b64f9b695b2/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/mamikos/.gradle/caches/transforms-2/files-2.1/346054693ceac9dfe19c8b64f9b695b2/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/mamikos/.gradle/caches/transforms-2/files-2.1/3103f3b0b42f1f458b01c07582b141d1/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/mamikos/.gradle/caches/transforms-2/files-2.1/3103f3b0b42f1f458b01c07582b141d1/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/mamikos/.gradle/caches/transforms-2/files-2.1/96ac81ae479cdb1725dff811c91563ce/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/mamikos/.gradle/caches/transforms-2/files-2.1/96ac81ae479cdb1725dff811c91563ce/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] /Users/mamikos/.gradle/caches/transforms-2/files-2.1/d4c77ef658b3c604bdfadc9d98278794/activity-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] /Users/mamikos/.gradle/caches/transforms-2/files-2.1/d4c77ef658b3c604bdfadc9d98278794/activity-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.3.2] /Users/mamikos/.gradle/caches/transforms-2/files-2.1/192b94170d2572ba0927d8cca337f24b/core-1.3.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.3.2] /Users/mamikos/.gradle/caches/transforms-2/files-2.1/192b94170d2572ba0927d8cca337f24b/core-1.3.2/AndroidManifest.xml:20:5-22:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] /Users/mamikos/.gradle/caches/transforms-2/files-2.1/54cb0b4f74105ed4e0d5e8dab3f93733/gifdecoder-4.11.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] /Users/mamikos/.gradle/caches/transforms-2/files-2.1/54cb0b4f74105ed4e0d5e8dab3f93733/gifdecoder-4.11.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] /Users/mamikos/.gradle/caches/transforms-2/files-2.1/c13515dde7fc598a2c5c41dfcc16c468/exifinterface-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] /Users/mamikos/.gradle/caches/transforms-2/files-2.1/c13515dde7fc598a2c5c41dfcc16c468/exifinterface-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/mamikos/.gradle/caches/transforms-2/files-2.1/a2fc553e95ece8d7a88cb4cd05832de8/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/mamikos/.gradle/caches/transforms-2/files-2.1/a2fc553e95ece8d7a88cb4cd05832de8/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /Users/mamikos/.gradle/caches/transforms-2/files-2.1/c50c022c09e3ea3f3e5d3749525ddf02/lifecycle-runtime-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /Users/mamikos/.gradle/caches/transforms-2/files-2.1/c50c022c09e3ea3f3e5d3749525ddf02/lifecycle-runtime-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/mamikos/.gradle/caches/transforms-2/files-2.1/8390506868fd36f8ebd871cb584d0a2f/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/mamikos/.gradle/caches/transforms-2/files-2.1/8390506868fd36f8ebd871cb584d0a2f/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/mamikos/.gradle/caches/transforms-2/files-2.1/385d296b47df1bb648dccdaa854620f4/savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/mamikos/.gradle/caches/transforms-2/files-2.1/385d296b47df1bb648dccdaa854620f4/savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/mamikos/.gradle/caches/transforms-2/files-2.1/8d5fa96f5035bb1dcc4f9c85dfc65a32/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/mamikos/.gradle/caches/transforms-2/files-2.1/8d5fa96f5035bb1dcc4f9c85dfc65a32/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/mamikos/.gradle/caches/transforms-2/files-2.1/da99c4e221d10a99aa533375ed6afbca/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/mamikos/.gradle/caches/transforms-2/files-2.1/da99c4e221d10a99aa533375ed6afbca/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/mamikos/.gradle/caches/transforms-2/files-2.1/eb7a18d13249c2f9bcd66a310cfeeddc/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/mamikos/.gradle/caches/transforms-2/files-2.1/eb7a18d13249c2f9bcd66a310cfeeddc/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] /Users/mamikos/.gradle/caches/transforms-2/files-2.1/e9489b867a161b2440e53480c4a95d83/annotation-experimental-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] /Users/mamikos/.gradle/caches/transforms-2/files-2.1/e9489b867a161b2440e53480c4a95d83/annotation-experimental-1.0.0/AndroidManifest.xml:20:5-22:41
+INJECTED from /Users/mamikos/AndroidStudioProjects/MovieApp/androidApp/src/main/AndroidManifest.xml
+INJECTED from /Users/mamikos/AndroidStudioProjects/MovieApp/androidApp/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/mamikos/AndroidStudioProjects/MovieApp/androidApp/src/main/AndroidManifest.xml
+		ADDED from /Users/mamikos/AndroidStudioProjects/MovieApp/androidApp/src/main/AndroidManifest.xml
+		INJECTED from /Users/mamikos/AndroidStudioProjects/MovieApp/androidApp/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/mamikos/AndroidStudioProjects/MovieApp/androidApp/src/main/AndroidManifest.xml
+		ADDED from /Users/mamikos/AndroidStudioProjects/MovieApp/androidApp/src/main/AndroidManifest.xml
+		INJECTED from /Users/mamikos/AndroidStudioProjects/MovieApp/androidApp/src/main/AndroidManifest.xml
